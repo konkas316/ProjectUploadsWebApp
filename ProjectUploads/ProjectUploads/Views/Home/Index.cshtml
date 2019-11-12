@@ -1,0 +1,66 @@
+﻿@model IEnumerable<Upload>
+@inject SignInManager<IdentityUser> signInManager;
+
+@using Microsoft.AspNetCore.Authorization
+@inject IAuthorizationService authorizationService;
+
+@{
+    ViewBag.Title = "Upload List";
+}
+
+@*<div class="file-loading">
+    <input id="input-ficons-1" name="input-ficons-1[]" multiple type="file">
+</div>
+<script>
+    $("#input-ficons-1").fileinput({
+        uploadUrl: "/file-upload-batch/2",
+        uploadAsync: true,
+        previewFileIcon: '<i class="fas fa-file"></i>',
+        allowedPreviewTypes: null, // set to empty, null or false to disable preview for all types
+        previewFileIconSettings: {
+            'docx': '<i class="fas fa-file-word text-primary"></i>',
+            'xlsx': '<i class="fas fa-file-excel text-success"></i>',
+            'pptx': '<i class="fas fa-file-powerpoint text-danger"></i>',
+            'jpg': '<i class="fas fa-file-image text-warning"></i>',
+            'pdf': '<i class="fas fa-file-pdf text-danger"></i>',
+            'zip': '<i class="fas fa-file-archive text-muted"></i>',
+        }
+    });
+</script>*@
+
+<div class="card-deck">
+    @foreach (var upload in Model)
+    {
+        var iconPath = "~/icons/noimage.png";
+        var uploadPath = "~/projects/" + (upload.UploadPath ?? iconPath);
+        //var uploadPath = "~/projects/*.jpg";
+
+    <div class="card m-3" style="min-width:18rem; max-width:30.5%;">
+        <div class="card-header">
+            <h3>@upload.Name</h3>
+
+        </div>
+
+        <div class="form-group row">
+            <img src='<%#Eval("Icon") %>' width="60" />
+        </div>
+
+        <img class="card-img-top imageThumbnail" src="@uploadPath" asp-append-version="true" />
+
+
+        <div class="card-footer text-center">
+            <a asp-controller="home" asp-action="details" asp-route-id="@upload.Id"
+               class="btn btn-primary m-1">View</a>
+            @if (signInManager.IsSignedIn(User))
+            {
+                <a asp-controller="home" asp-action="edit" asp-route-id="@upload.Id"
+                   class="btn btn-primary m-1">Edit</a>
+                <a asp-controller="home" asp-action="delete" asp-route-id="@upload.Id"
+                   class="btn btn-danger m-1">Delete</a>
+            }
+            <a asp-controller="home" asp-action="download" asp-route-id="@upload.Id"
+               class="btn btn-primary m-1" style="width:auto">Download</a>
+        </div>
+    </div>
+    }
+</div>

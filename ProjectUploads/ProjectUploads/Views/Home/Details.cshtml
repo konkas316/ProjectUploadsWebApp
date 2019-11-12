@@ -1,0 +1,74 @@
+﻿@model HomeDetailsViewModel
+@inject SignInManager<IdentityUser> signInManager;
+@*@using Microsoft.AspNetCore.Authorization
+    @inject IAuthorizationService authorizationService;*@
+
+@{
+    ViewBag.Title = "Upload Details";
+
+    var iconPath = "~/icons/noimage.png";
+    var uploadPath = "~/projects/" + (Model.Upload.UploadPath ?? iconPath);
+
+    //var uploadPath = "~/projects/*.jpg";
+
+    //// to avoid the case that even the alternative fails
+    //if(uploadPath!= ".png" || uploadPath!=".jpg")
+    //    uploadPath = "~/icons/" + (Model.Upload.UploadPath ?? "noimage.png");
+
+
+
+}
+
+@*<div class="file-loading">
+    <input id="input-ficons-1" name="input-ficons-1[]" multiple type="file">
+</div>
+<script>
+    $("#input-ficons-1").fileinput({
+        uploadUrl: "/file-upload-batch/2",
+        uploadAsync: true,
+        previewFileIcon: '<i class="fas fa-file"></i>',
+        allowedPreviewTypes: null, // set to empty, null or false to disable preview for all types
+        previewFileIconSettings: {
+            'docx': '<i class="fas fa-file-word text-primary"></i>',
+            'xlsx': '<i class="fas fa-file-excel text-success"></i>',
+            'pptx': '<i class="fas fa-file-powerpoint text-danger"></i>',
+            'jpg': '<i class="fas fa-file-image text-warning"></i>',
+            'pdf': '<i class="fas fa-file-pdf text-danger"></i>',
+            'zip': '<i class="fas fa-file-archive text-muted"></i>',
+        }
+    });
+</script>*@
+
+<div class="row justify-content-center m-3">
+    <div class="col-sm-8">
+        <div class="card">
+            <div class="card-header">
+                <h1>@Model.Upload.Name</h1>
+            </div>
+
+            <div class="card-body text-center">
+                <img class="card-img-top" src="@uploadPath" asp-append-version="true" />
+
+                <h4>Upload ID : @Model.Upload.Id</h4>
+                <h4>Description : @Model.Upload.Description</h4>
+                @*<h4>Department : @Model.Upload.Department</h4>*@
+            </div>
+            <div class="form-group row">
+                <img src='<%#Eval("Icon") %>' width="60" />
+            </div>
+
+            <div class="card-footer text-center">
+                <a asp-controller="home" asp-action="index" class="btn btn-primary">Back</a>
+                @if (signInManager.IsSignedIn(User))
+                {
+                    <a asp-controller="home" asp-action="edit" asp-route-id="@Model.Upload.Id"
+                       class="btn btn-primary m-1">Edit</a>
+                    <a asp-controller="home" asp-action="delete" asp-route-id="@Model.Upload.Id"
+                       class="btn btn-danger">Delete</a>
+                }
+                <a asp-controller="home" asp-action="download" asp-route-id="@Model.Upload.Id"
+                   class="btn btn-primary m-1" style="width:auto">Download</a>
+            </div>
+        </div>
+    </div>
+</div>

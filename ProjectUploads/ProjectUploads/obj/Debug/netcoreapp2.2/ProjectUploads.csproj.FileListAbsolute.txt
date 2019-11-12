@@ -1,0 +1,215 @@
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\nlog.config
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\libman.json
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.deps.json
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.runtimeconfig.json
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.runtimeconfig.dev.json
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.dll
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.pdb
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.Views.dll
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.Views.pdb
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorAssemblyInfo.cache
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorAssemblyInfo.cs
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.AssemblyInfoInputs.cache
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.AssemblyInfo.cs
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.TagHelpers.input.cache
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.TagHelpers.output.cache
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorCoreGenerate.cache
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\_ViewStart.cshtml.g.cs
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorTargetAssemblyInfo.cache
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorTargetAssemblyInfo.cs
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.Views.pdb
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.dll
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.pdb
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.csproj.CopyComplete
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\UploadNotFound.cshtml.g.cs
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.csprojAssemblyReference.cache
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\T\Desktop\Baigiamajam\This one\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\nlog.config
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\libman.json
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.deps.json
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.runtimeconfig.json
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.runtimeconfig.dev.json
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.dll
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.pdb
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.Views.dll
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.Views.pdb
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorAssemblyInfo.cache
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorAssemblyInfo.cs
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.AssemblyInfoInputs.cache
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.AssemblyInfo.cs
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.TagHelpers.input.cache
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.TagHelpers.output.cache
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorCoreGenerate.cache
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\UploadNotFound.cshtml.g.cs
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\_ViewStart.cshtml.g.cs
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorTargetAssemblyInfo.cache
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorTargetAssemblyInfo.cs
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.Views.pdb
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.dll
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.pdb
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.csproj.CopyComplete
+C:\Users\T\Desktop\Just everything\Nespejau\Baigiamajam\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.csprojAssemblyReference.cache
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\nlog.config
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\libman.json
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.deps.json
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.runtimeconfig.json
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.runtimeconfig.dev.json
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.dll
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.pdb
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.Views.dll
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.Views.pdb
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.csprojAssemblyReference.cache
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorAssemblyInfo.cache
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorAssemblyInfo.cs
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.AssemblyInfoInputs.cache
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.AssemblyInfo.cs
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.TagHelpers.input.cache
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.TagHelpers.output.cache
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorCoreGenerate.cache
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\UploadNotFound.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\_ViewStart.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorTargetAssemblyInfo.cache
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorTargetAssemblyInfo.cs
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.Views.pdb
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.dll
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.pdb
+C:\Users\T\Desktop\This one - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.csproj.CopyComplete
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\nlog.config
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\libman.json
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.deps.json
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.runtimeconfig.json
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.runtimeconfig.dev.json
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.dll
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.pdb
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.Views.dll
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.Views.pdb
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorAssemblyInfo.cache
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorAssemblyInfo.cs
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.AssemblyInfoInputs.cache
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.AssemblyInfo.cs
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.TagHelpers.input.cache
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.TagHelpers.output.cache
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorCoreGenerate.cache
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\UploadNotFound.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\_ViewStart.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorTargetAssemblyInfo.cache
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorTargetAssemblyInfo.cs
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.Views.pdb
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.dll
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.pdb
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.csproj.CopyComplete
+C:\Users\T\Desktop\This one - Copy - Copy\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.csprojAssemblyReference.cache
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\nlog.config
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\libman.json
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.deps.json
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.runtimeconfig.json
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.runtimeconfig.dev.json
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.dll
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.pdb
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.Views.dll
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\bin\Debug\netcoreapp2.2\ProjectUploads.Views.pdb
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorAssemblyInfo.cache
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorAssemblyInfo.cs
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.AssemblyInfoInputs.cache
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.AssemblyInfo.cs
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.TagHelpers.input.cache
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.TagHelpers.output.cache
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorCoreGenerate.cache
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\UploadNotFound.cshtml.g.cs
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Home\_ViewStart.cshtml.g.cs
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorTargetAssemblyInfo.cache
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.RazorTargetAssemblyInfo.cs
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.Views.pdb
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.dll
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.pdb
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.csproj.CopyComplete
+C:\Users\T\Desktop\ProjectUploadsWebSite\ProjectUploads\ProjectUploads\obj\Debug\netcoreapp2.2\ProjectUploads.csprojAssemblyReference.cache

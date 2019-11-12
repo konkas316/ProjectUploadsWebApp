@@ -1,0 +1,20 @@
+
+1)rodyti icons pagal failo tipa
+
+2)jei negalima padaryt arba 
+
+sudetinga tai igyvendinti padaryti,
+
+kad uploadinant faila arba kelis 
+
+failus arba folderi ji suzipuotu 
+
+pries tai nuskaitant jo tipa, kad
+
+galima butu uzdet icona
+
+3) Paspaudus View turi rodyti failu 
+
+lista su atitinkamais ju duomenimis
+
+(dydis,data ir /ar pan)
